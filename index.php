@@ -1,1 +1,1 @@
-<ch1 php include("homne.html")
+<? php include("homne.html")
